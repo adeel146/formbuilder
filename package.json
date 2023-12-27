@@ -18,7 +18,7 @@
     "@types/uuid": "^8.3.4",
     "antd": "^4.21.3",
     "antd-mask-input": "^2.0.7",
-    "axios": "^0.26.0",
+    "axios": "^1.6.3",
     "classnames": "^2.3.1",
     "currency-list": "^1.0.6",
     "html-to-react": "^1.4.8",
